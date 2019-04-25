@@ -1,0 +1,25 @@
+{
+  "name": "geoanalyticalservice",
+  "version": "1.0.0",
+  "description": "This service helps get geograpgic analytical data regarding specific location.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahajanHarsh/GeoAnalyticalService.git"
+  },
+  "author": "Harsh Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahajanHarsh/GeoAnalyticalService/issues"
+  },
+  "homepage": "https://github.com/MahajanHarsh/GeoAnalyticalService#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "googleplaces": "^0.6.1",
+    "http": "0.0.0",
+    "request": "^2.88.0"
+  }
+}
