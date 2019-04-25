@@ -1,9 +1,9 @@
 # GeoAnalyticalService
 GeoAnalyticalService is a web services created in NodeJS.
 
-It uses Google Places API to get geographic analytical data.
+It uses Google Places API to get geographic data.
 
-It helps any application to get relevant information regarding perticular location. 
+It stores the data collected from Google API and provides analytical information regarding perticular location. 
 
 
 
